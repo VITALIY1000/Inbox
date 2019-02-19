@@ -23,7 +23,7 @@
             android:paddingBottom="@dimen/default_padding"
             android:paddingRight="@dimen/default_padding"
             android:scaleType="center"
-            app:srcCompat="@android:drawable/ic_dialog_email" />
+            android:src="@drawable/ic_account_circle_black_24dp" />
 
         <TextView
             android:id="@+id/title_text_view2"

@@ -13,8 +13,8 @@
         android:layout_height="@dimen/image_size"
         android:paddingTop="@dimen/default_padding"
         android:paddingBottom="@dimen/default_padding"
-        app:srcCompat="@android:drawable/ic_dialog_email"
-        android:scaleType="center"/>
+        android:scaleType="center"
+        android:src="@drawable/ic_account_circle_black_24dp"/>
 
     <LinearLayout
         android:layout_width="0dp"
