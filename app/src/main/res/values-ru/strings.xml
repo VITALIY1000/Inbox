@@ -10,4 +10,6 @@
     <string name="toast_error">Заполните пустые поля</string>
     <string name="fish_text">Dogfish shark Pacific lamprey rock beauty Black mackerel Devario slender snipe eel, ribbon eel. Slender snipe eel scissor-tail rasbora New World rivuline yellow-and-black triplefin rough sculpin icefish starry flounder largenose fish threespine stickleback common carp. Garpike, flying characin trumpetfish, dab squaretail Peter\'s elephantnose fish parasitic catfish.</string>
     <string name="fish_hours">4h</string>
+    <string name="button1_text">Ответить</string>
+    <string name="button2_text">Вперед</string>
 </resources>

@@ -20,8 +20,8 @@
             android:layout_width="@dimen/image_size"
             android:layout_height="@dimen/image_size"
             android:paddingTop="@dimen/default_padding"
-            android:paddingBottom="@dimen/default_padding"
             android:paddingRight="@dimen/default_padding"
+            android:paddingBottom="@dimen/default_padding"
             android:scaleType="center"
             android:src="@drawable/ic_account_circle_black_24dp" />
 
@@ -29,19 +29,48 @@
             android:id="@+id/title_text_view2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
             android:textColor="@android:color/black"
             android:textSize="@dimen/title_text_size"
-            android:maxLines="1"
-            android:ellipsize="end"
             tools:text="@string/fish_text" />
 
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/content_text_view2"
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/content_text_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/secondary_text_size"
+            tools:text="@string/fish_text" />
+
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="@dimen/secondary_text_size"
-        tools:text="@string/fish_text" />
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/button1_text"
+            android:padding="@dimen/default_padding"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/button2_text"
+            android:padding="@dimen/default_padding"/>
+
+    </LinearLayout>
 
 </LinearLayout>
