@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сообщения</string>
+    <string name="action_settings">Настройки</string>
+    <string name="email_title_placeholder">Anonymous</string>
+    <string name="title_activity_message">Сообщение</string>
+    <string name="title_activity_send">Отправить</string>
+    <string name="send_placeholder">От:</string>
+    <string name="sending_toast">Успешно отправлено</string>
+    <string name="toast_error">Заполните пустые поля</string>
+    <string name="fish_text">Dogfish shark Pacific lamprey rock beauty Black mackerel Devario slender snipe eel, ribbon eel. Slender snipe eel scissor-tail rasbora New World rivuline yellow-and-black triplefin rough sculpin icefish starry flounder largenose fish threespine stickleback common carp. Garpike, flying characin trumpetfish, dab squaretail Peter\'s elephantnose fish parasitic catfish.</string>
+    <string name="fish_hours">4h</string>
+</resources>
