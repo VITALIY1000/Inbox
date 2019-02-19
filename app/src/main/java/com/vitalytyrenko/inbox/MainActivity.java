@@ -106,6 +106,6 @@ public class MainActivity extends AppCompatActivity implements EmailAdapter.Emai
     }
 
     public static void addMessage(EmailItem el) {
-        list.add(el);
+        list.add(0, el);
     }
 }
