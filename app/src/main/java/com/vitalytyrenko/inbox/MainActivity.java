@@ -89,19 +89,19 @@ public class MainActivity extends AppCompatActivity implements EmailAdapter.Emai
         list.add(new EmailItem("Mike Street", "etuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis", "20m", "https://bipbap.ru/wp-content/uploads/2017/07/24328.jpg"));
         list.add(new EmailItem("Lucas 9-9",  "ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis", "55m", "https://bipbap.ru/wp-content/uploads/2017/07/38055168.jpg"));
         list.add(new EmailItem("Amazon Rose", "Thanks for accepting my connection, it’s great to have someone with similar interests in my network!", "1h", "https://bipbap.ru/wp-content/uploads/2017/07/image_411005152042031573416.jpg"));
-        list.add(new EmailItem("Kazi Ahmed", "Lorem impus... WHAT???!!!", "4h", ""));
-        list.add(new EmailItem("New letter",  "Thanks for accepting my connection, it’s great to have someone with similar interests in my network!", "2d", ""));
-        list.add(new EmailItem(null,  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "2d", ""));
-        list.add(new EmailItem("Pushpendra Yad",  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "2d", ""));
+        list.add(new EmailItem("Kazi Ahmed", "Lorem impus... WHAT???!!!", "4h", "https://bipbap.ru/wp-content/uploads/2017/07/images-2-65.jpg"));
+        list.add(new EmailItem("New letter",  "Thanks for accepting my connection, it’s great to have someone with similar interests in my network!", "2d", "https://bipbap.ru/wp-content/uploads/2017/07/skachannye-fajly-45.jpg"));
+        list.add(new EmailItem(null,  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "2d", "https://whatsism.com/uploads/posts/2018-07/thumbs/1530546590_tx962vdsiqi.jpg"));
+        list.add(new EmailItem("Pushpendra Yad",  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "2d", "https://whatsism.com/uploads/posts/2018-07/1530547199_poceluy_s_solncem.jpg"));
 
         list.add(new EmailItem("Alex Buranov",  "consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoqu", "3d", "https://bipbap.ru/wp-content/uploads/2017/07/5-1.jpg"));
         list.add(new EmailItem("Mike Street",  "etuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis", "3d", "https://bipbap.ru/wp-content/uploads/2017/07/24328.jpg"));
         list.add(new EmailItem("Lucas 9-9",  "ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis", "3d", "https://bipbap.ru/wp-content/uploads/2017/07/38055168.jpg"));
         list.add(new EmailItem("Amazon Rose",  "Thanks for accepting my connection, it’s great to have someone with similar interests in my network!", "3d", "https://bipbap.ru/wp-content/uploads/2017/07/image_411005152042031573416.jpg"));
-        list.add(new EmailItem("Kazi Ahmed",  "Lorem impus... WHAT???!!!", "3d", ""));
-        list.add(new EmailItem("New letter",  "Thanks for accepting my connection, it’s great to have someone with similar interests in my network!", "3d", ""));
-        list.add(new EmailItem(null,  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "3d", ""));
-        list.add(new EmailItem("Pushpendra Yad",  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "4d", ""));
+        list.add(new EmailItem("Kazi Ahmed",  "Lorem impus... WHAT???!!!", "3d", "https://bipbap.ru/wp-content/uploads/2017/07/images-2-65.jpg"));
+        list.add(new EmailItem("New letter",  "Thanks for accepting my connection, it’s great to have someone with similar interests in my network!", "3d", "https://bipbap.ru/wp-content/uploads/2017/07/skachannye-fajly-45.jpg"));
+        list.add(new EmailItem(null,  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "3d", "https://whatsism.com/uploads/posts/2018-07/thumbs/1530546590_tx962vdsiqi.jpg"));
+        list.add(new EmailItem("Pushpendra Yad",  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ", "4d", "https://whatsism.com/uploads/posts/2018-07/1530547199_poceluy_s_solncem.jpg"));
         return list;
     }
 
